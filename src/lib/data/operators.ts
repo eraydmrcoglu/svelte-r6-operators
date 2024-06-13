@@ -510,6 +510,16 @@ export const operators = [
     organization: 'WOLFGUARD'
   },
   {
+    name: 'Sentry',
+    badge: '/operator-badges/sentrybadge.png',
+    image: '/operator-profiles/sentry.png',
+    bio: '“We earned the right to be here. Now we just have to earn the right to stay”Rainbow’s Attack Recruits, known as Strikers, are a cornerstone of the institution and despite internal perception, are not a generic monolith of identical soldiers. Generally speaking, they are much more youthful than our experienced Specialists and Operators, but that doesn’t make them any less integral to the smooth running of our missions. Furthermore, there are worse things than being overly enthusiastic, even if occasionally there will be some Recruits who get a little too excitable around our elite Specialists. Despite the confidential nature of Rainbow’s missions, some Recruits have been known to treat our Ops like near-celebrities, coming up with their own theories about who did what in various missions and pressing them for details and stories. Due to this and other concerns from Specialists, the Recruits now have their own mess hall and generally only interact with the Ops directly involved in their training. Though all of these Recruits hail from the most elite of elite military and counter-terror institutions, they all know that Rainbow is a cut above and treat the organization with the respect and discipline it demands.Although not full-fledged Operators, many Recruits have gone through trials by fire, like the survivors of Deimos’ attack on Tower. They performed valiantly, collaborating effectively with Vigil to down the helicopter that led the attack and took so many young lives. While this event was tragic, it was also a true test of field composure, leading one such survivor, Ram, to become a Specialist.',
+    armor_rating: 2,
+    speed_rating: 2,
+    type: 'defense',
+    organization: 'None'
+  },
+  {
     name: 'Sledge',
     badge: '/operator-badges/sledgebadge.png',
     image: '/operator-profiles/sledge.png',
@@ -538,6 +548,16 @@ export const operators = [
     speed_rating: 2,
     type: 'defense',
     organization: 'GHOSTEYES'
+  },
+  {
+    name: 'Striker',
+    badge: '/operator-badges/strikerbadge.png',
+    image: '/operator-profiles/striker.png',
+    bio: '“We earned the right to be here. Now we just have to earn the right to stay”Rainbow’s Attack Recruits, known as Strikers, are a cornerstone of the institution and despite internal perception, are not a generic monolith of identical soldiers. Generally speaking, they are much more youthful than our experienced Specialists and Operators, but that doesn’t make them any less integral to the smooth running of our missions. Furthermore, there are worse things than being overly enthusiastic, even if occasionally there will be some Recruits who get a little too excitable around our elite Specialists. Despite the confidential nature of Rainbow’s missions, some Recruits have been known to treat our Ops like near-celebrities, coming up with their own theories about who did what in various missions and pressing them for details and stories. Due to this and other concerns from Specialists, the Recruits now have their own mess hall and generally only interact with the Ops directly involved in their training. Though all of these Recruits hail from the most elite of elite military and counter-terror institutions, they all know that Rainbow is a cut above and treat the organization with the respect and discipline it demands.Although not full-fledged Operators, many Recruits have gone through trials by fire, like the survivors of Deimos’ attack on Tower. They performed valiantly, collaborating effectively with Vigil to down the helicopter that led the attack and took so many young lives. While this event was tragic, it was also a true test of field composure, leading one such survivor, Ram, to become a Specialist.',
+    armor_rating: 2,
+    speed_rating: 2,
+    type: 'attack',
+    organization: 'None'
   },
   {
     name: 'Tachanka',
