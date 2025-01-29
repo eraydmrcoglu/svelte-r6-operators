@@ -73,7 +73,7 @@ export const operators = [
 		name: 'Blackbeard',
 		badge: '/operator-badges/blackbeardbadge.png',
 		image: '/operator-profiles/blackbeard.png',
-		bio: 'Jenson grew up in a comfortable upper middle-class family with no military history. He decided that he wanted to be a Navy SEAL at a young age and devoted his life to achieving this goal. With the help of his father, a kinesiology professor at the University of Washington, he started training at twelve and enlisted at eighteen.',
+		bio: '“I’m a diver. We’re used to seeing threats through a layer of tempered glass.”Instead of following the family tradition in the medical sciences, Jenson joined the US Navy. His early years in the Boy Scouts and the United States Naval Sea Cadet Corps (Blue Angels Squadron) solidified his desire to serve his country and see the world. Joining the military offered him the ideal opportunity to pursue an academic education while learning a wide range of skills that fueled his adventurous spirit. After his initial military stint, Jenson focused on the US Navy SEALs as his ultimate career goal. Driven to succeed in his profession and his private life, he has climbed Mount Everest, participated in US sailing championships, and has sailed around the world on several occasions.',
 		armor_rating: 3,
 		speed_rating: 1,
 		type: 'attack',
