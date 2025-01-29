@@ -74,8 +74,8 @@ export const operators = [
 		badge: '/operator-badges/blackbeardbadge.png',
 		image: '/operator-profiles/blackbeard.png',
 		bio: 'Jenson grew up in a comfortable upper middle-class family with no military history. He decided that he wanted to be a Navy SEAL at a young age and devoted his life to achieving this goal. With the help of his father, a kinesiology professor at the University of Washington, he started training at twelve and enlisted at eighteen.',
-		armor_rating: 2,
-		speed_rating: 2,
+		armor_rating: 3,
+		speed_rating: 1,
 		type: 'attack',
 		organization: 'REDHAMMER'
 	},
