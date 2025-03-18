@@ -490,6 +490,16 @@ export const operators = [
 		organization: 'REDHAMMER'
 	},
 	{
+		name: 'Rauora',
+		badge: '/operator-badges/rauorabadge.png',
+		image: '/operator-profiles/rauora.png',
+		bio: '“Either you follow me or I carry you out. Its up to you.”Hāpai Iwini was born in Rārata iwi, Christchurch, to a firefighter father and a sergeant mother. Following in his parents footsteps, he joined the New Zealand Army (Ngāti Tumatauenga). Promoted to captain in just three years, Iwini stood out, and after two trials he managed to get into the New Zealand Special Air Service. This achievement earned him the Moko Kauae tattoo. Iwini has practiced the Kaupapa Māori ethos throughout his life and continues to volunteer as a firefighter when not on duty.Iwini has a solid training regimen and it shows by playing semi-professional rugby. He attributes his outstanding physical fitness and situational awareness performance scores to this hobby. Iwinis outstanding performance in Special Forces led to his transfer to Rainbow and Striker training, where he broke the evacuation training time record, which had not been broken since 2003. After his heroic actions during the attack on Hereford Base, he qualified as a full Operator.',
+		armor_rating: 2,
+		speed_rating: 2,
+		type: 'attack',
+		organization: 'VIPERSTRIKE'
+	},
+	{
 		name: 'Rook',
 		badge: '/operator-badges/rookbadge.png',
 		image: '/operator-profiles/rook.png',
