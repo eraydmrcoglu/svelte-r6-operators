@@ -143,11 +143,21 @@ export const operators = [
 		name: 'Clash',
 		badge: '/operator-badges/clashbadge.png',
 		image: '/operator-profiles/clash.png',
-		bio: 'Born and raised in England, Clash is a tough officer who served with the Territorial Support Group, holding the front line during the 2011 London Riots. She earned her spot with the Specialist Firearms Command (SCO19), making herself known within London’s Metropolitan Police Services (MPS).',
+		bio: '“Change will come if you’re willing to fight for it.”At a young age, Morowa Evans became fixated on helping people. She spent her teenage years leading protests for social change, which would often result in violent clashes with the police and counter-protesters, landing her in juvenile detention on multiple occasions. It took the death of her mentor, Tray Pearson, who was killed by masked rioters while trying to protect a local shop, to show her she needed a different way of accomplishing her goals. This led Evans to join the Metropolitan Police Service (MPS) in hopes of making a difference from within the system.Evans thrived in her new position, eventually becoming a Detective Constable and earning herself the Queen’s Police Medal for exceptional bravery. This accomplishment granted her the opportunity to attend Gold Command meetings, during which she proposed new crowd-control strategies; her years as a riot leader gave her a unique perspective on the most efficient ways of handling these situations. Her renown got her assigned to protect a member of GSAC during a citywide riot. With her knowledge of rioter behavior, Evans kept the Council member away from any violent altercations. Impressed by her resourcefulness, they offered her a chance to undergo Rainbow’s Recruit training.',
 		armor_rating: 3,
 		speed_rating: 1,
 		type: 'defense',
 		organization: 'WOLFGUARD'
+	},
+	{
+		name: 'Denari',
+		badge: '/operator-badges/denaribadge.png',
+		image: '/operator-profiles/denari.png',
+		bio: 'Take a seat, play a round. What’s the worst that can happen? The son of an upper-class family, Winzenried’s role as Jaimini Kalimohan “Kali” Shah’s hidden enforcer was not part of his expected life path. Growing up, he was primarily used as a political prop for his parents careers. Due to his monotonous upbringing, Winzenried found solace in games of chance, where he developed a propensity for analyzing and misdirecting his enemies. As a teenager, he was detained multiple times for sneaking into pool halls and swindling tourists out of their money. He has not been in contact with his family since his conscription into the Swiss Military.Winzenried’s knack for deconstructing his enemies’ tactics made him an outlier among his military peers, earning him a spot in the ARD 10. His pristine success record in safeguarding hostages and his ability to adapt quickly under pressure earned him the approval of his commanding officers. After his contract ended, he left military life behind and traveled the world for several years, joining various mercenary groups and honing his skills. On multiple occasions he found himself working with Charlie Tho “Grim” Keng Boon, and the two developed a respect for each other’s abilities. As he wandered from unit to unit, he developed a reputation for turning seemingly impossible missions into successes. These exploits eventually landed him on Nighthaven’s radar.',
+		armor_rating: 1,
+		speed_rating: 3,
+		type: 'defense',
+		organization: 'NIGHTHVEN'
 	},
 	{
 		name: 'Doc',
