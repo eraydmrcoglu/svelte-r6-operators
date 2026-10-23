@@ -17,7 +17,7 @@
 </script>
 
 <svelte:head>
-	<title>Maps — R6 Intel</title>
+	<title>All Siege Maps &amp; Blueprints | R6 Intel</title>
 	<meta
 		name="description"
 		content="All {maps.length} Rainbow Six Siege maps with locations, playlists and official blueprints."

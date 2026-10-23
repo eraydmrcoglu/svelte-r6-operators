@@ -8,7 +8,7 @@
 </script>
 
 <svelte:head>
-	<title>Ranks — R6 Intel</title>
+	<title>Rank Ladder: Copper to Legend | R6 Intel</title>
 	<meta
 		name="description"
 		content="Every Rainbow Six Siege ranked tier from Copper to Champion and the Legend division."

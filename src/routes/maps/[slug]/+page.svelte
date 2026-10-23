@@ -15,7 +15,7 @@
 </script>
 
 <svelte:head>
-	<title>{map.name} — Maps — R6 Intel</title>
+	<title>{map.name} Map Guide &amp; Blueprints | R6 Intel</title>
 	<meta name="description" content={map.description.slice(0, 160)} />
 	<meta property="og:image" content={map.hero} />
 </svelte:head>

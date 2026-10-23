@@ -80,7 +80,7 @@
 </script>
 
 <svelte:head>
-	<title>Select Operator — R6 Intel</title>
+	<title>R6 Intel | Rainbow Six Siege Operators, Maps &amp; Ranks</title>
 	<meta
 		name="description"
 		content="Browse all {operators.length} Rainbow Six Siege operators: loadouts, gadgets, roles and biographies."

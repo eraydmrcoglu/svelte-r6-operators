@@ -58,7 +58,7 @@
 </script>
 
 <svelte:head>
-	<title>Operator Roulette — R6 Intel</title>
+	<title>Operator Roulette | R6 Intel</title>
 	<meta
 		name="description"
 		content="Can't decide? Spin for a random Rainbow Six Siege operator and loadout."

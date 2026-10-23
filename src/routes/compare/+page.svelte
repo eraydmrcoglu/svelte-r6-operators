@@ -63,7 +63,7 @@
 </script>
 
 <svelte:head>
-	<title>Compare operators — R6 Intel</title>
+	<title>Compare Operators | R6 Intel</title>
 </svelte:head>
 
 <p class="font-mono text-xs tracking-[0.3em] text-attack uppercase">// Side by side</p>

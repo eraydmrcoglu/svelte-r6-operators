@@ -30,7 +30,9 @@
 </script>
 
 <svelte:head>
-	<title>{op.name} — R6 Intel</title>
+	<title
+		>{op.name}: {op.side === 'attack' ? 'Attacker' : 'Defender'} Loadout &amp; Guide | R6 Intel</title
+	>
 	<meta
 		name="description"
 		content="{op.name}, {op.side} operator in Rainbow Six Siege. {op.ability.description.slice(
@@ -38,7 +40,7 @@
 			140
 		)}"
 	/>
-	<meta property="og:title" content="{op.name} — R6 Intel" />
+	<meta property="og:title" content="{op.name} | R6 Intel" />
 	<meta property="og:image" content={op.portrait} />
 </svelte:head>
 

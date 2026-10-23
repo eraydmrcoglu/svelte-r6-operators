@@ -40,7 +40,7 @@
 </script>
 
 <svelte:head>
-	<title>Stats — R6 Intel</title>
+	<title>Player Stats Lookup | R6 Intel</title>
 	<meta
 		name="description"
 		content="Look up Rainbow Six Siege player stats and explore the operator roster in numbers."
