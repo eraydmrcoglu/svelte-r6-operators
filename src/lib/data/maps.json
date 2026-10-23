@@ -1,0 +1,435 @@
+[
+	{
+		"slug": "bank",
+		"name": "Bank",
+		"location": "Los Angeles, California",
+		"released": "Base game (December 2015)",
+		"reworked": "Siege X - June 2025",
+		"description": "Team Rainbow has been called to raid a major bank. The focus is on providing a sense of progression for attackers as they make their way through progressively more fortified areas of the building.",
+		"playlists": [
+			"quickmatch",
+			"ranked",
+			"unranked",
+			"teamdeathmatch"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-bank-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6ilgtuzucX7hEu2MvjhRtp/c7c7e63cff53c8b2192fdec68a736619/R6S_Maps_Bank_EXT.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4mjO2UYo1gqwhess6Mi5gb/a08a0b4886d73742e4d60315b9f21106/R6S_Maps_Bank_INT.jpg"
+	},
+	{
+		"slug": "border",
+		"name": "Border",
+		"location": "Middle East",
+		"released": "Dust Line (May 2016)",
+		"reworked": "Siege X - June 2025",
+		"description": "Team Rainbow has been called in to assist the local law enforcement and regain control of the border. A mix of old and new buildings with open air pathways make this the most destructible and open planned map to date.",
+		"playlists": [
+			"quickmatch",
+			"ranked",
+			"teamdeathmatch",
+			"unranked"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-border-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4hqsrL3cokFqedkfjiEaGf/655acbe5ae4ffab54f742d17f929d2af/R6S_Maps_Border_EXT.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5vsJsf9T6r7aFBLJX8dJOG/dafc156a04d0a488768bb67f4571ee9e/R6S_Maps_Border_INT.jpg"
+	},
+	{
+		"slug": "calypso-casino",
+		"name": "Calypso Casino",
+		"location": "Las Vegas, Nevada",
+		"released": "Operation System Override (June 2026)",
+		"reworked": null,
+		"description": "Located in the heart of Las Vegas, Calypso Casino pays tribute to the Rainbow Six Vegas legacy. Built for competitive play, the map includes unique gameplay elements, destructible ingredients and signature casino landmarks. Rappel down from the rooftop crane, gather intel through vertical drone vents, and breach your way to the basement’s Vault.",
+		"playlists": [
+			"ranked",
+			"unranked",
+			"quickmatch",
+			"teamdeathmatch"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-calypso-casino-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3Q3GWe0iPQ15DhqgukvMkR/6ab28980dfa75673087df15ad4568489/R6S_Maps_CalypsoCasino_Background.png",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1X0XoZH4Rb61ujDVAmbOGx/2a1d5d1549d710443351ab515a5954ef/R6S_Maps_CalypsoCasino_INT_OpenLobby_960x540.png"
+	},
+	{
+		"slug": "chalet",
+		"name": "CHALET",
+		"location": "Courchevel, France",
+		"released": "Base game (December 2015)",
+		"reworked": "Siege X - June 2025",
+		"description": "A shootout in an “après-ski” chalet in the French alps. This area contrasts the warm, cozy mood of its interiors with the cold, constrained visibility of its exteriors.",
+		"playlists": [
+			"quickmatch",
+			"ranked",
+			"unranked",
+			"teamdeathmatch"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-chalet-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/Km3ZJUM7ZMVbGsi6gad5Y/5656a6da468b39f5e8effe5307592f28/R6S_Maps_Chalet_EXT.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4M17EQjgQCJOy2NpZM08OT/36c6b2db0da388d851a5c518335c9145/R6S_Maps_Chalet_INT.jpg"
+	},
+	{
+		"slug": "close-quarter",
+		"name": "CLOSE QUARTER",
+		"location": "Greece",
+		"released": "Operation Vector Glare (June 2022)",
+		"reworked": null,
+		"description": "Close Quarter is the first dedicated Team Deathmatch map that focuses on movement rather than defense setups. With a circular flow and a good mix of different lines of sight, this facility used by Team Rainbow for training purposes will be a completely different experience.",
+		"playlists": [
+			"teamdeathmatch"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-closequarter-blueprints_june22.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6u3cuepKWT8IFdaGznfc3k/d470334bddf5d6313c15879cde524615/r6s_maps_closequarters.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4JWLiKOdWNjQCiiKuoNGiM/9abdd23e703d7f5a0d52705a9b221555/r6s-maps-quarter.jpg"
+	},
+	{
+		"slug": "clubhouse",
+		"name": "Clubhouse",
+		"location": "Hanover, Germany",
+		"released": "Base game (December 2015)",
+		"reworked": "Siege X - June 2025",
+		"description": "This map depicts an assault on a biker gang clubhouse. Featuring a full bar, gaming tables and leather furniture, this mixed interior/exterior layout offers a host of interesting tactical possibilities for both attacker and defender.",
+		"playlists": [
+			"quickmatch",
+			"ranked",
+			"teamdeathmatch",
+			"unranked"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-clubhouse-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1vCw5eD2XzxZlv6Au1gtui/06a84bacaacab62937dd6d4d8ae393c7/R6S_Maps_ClubHouse_EXT.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2ljlmbIAzZyVPSxOIcnlBn/da345d768d59f205b55ebae07c9f5ab1/R6S_Maps_Clubhouse_INT.jpg"
+	},
+	{
+		"slug": "coastline",
+		"name": "Coastline",
+		"location": "Ibiza, Spain",
+		"released": "Velvet Shell (February 2017)",
+		"reworked": "March 2026",
+		"description": "Team Rainbow has been called to safeguard the seashore of Ibiza, Spain. Stationed on Ibiza’s rocky shore, course through Balearic ruins and navigate booming bars to neutralize the threat. Get ready for a surround flow of combat laced with chaotic rushes as you explore a paradise gone wrong.",
+		"playlists": [
+			"quickmatch",
+			"unranked",
+			"teamdeathmatch",
+			"ranked"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-coastline-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5GfAQ3pXCJnDqiqaDH3Zic/a59f16615dbe5b65bd02669353067620/r6s-maps-coastline-thumb.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2tMqUaFX07zkBME3Flmiv2/b341265f496b5f65471c1c6321a0354a/r6s-maps-coastline-main.jpg"
+	},
+	{
+		"slug": "consulate",
+		"name": "Consulate",
+		"location": "Abidjan, Ivory Coast",
+		"released": "Base game (December 2015)",
+		"reworked": "September 2025",
+		"description": "A high-risk, highly secured fortified location, this map depicts an assault on a French consulate in Ivory Coast.",
+		"playlists": [
+			"quickmatch",
+			"ranked",
+			"teamdeathmatch",
+			"unranked"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-consulate-blueprints_may23.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/fK2eXk5ne1HUzXkki76qb/54571ed70705051825a70beb2018c5e8/ModernizedMap_Consulate_keyart.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2dWfAAHlvdqfl9IXq6uSTe/134a32a05f18126548da90571e5d7323/ModernizedMap_Consulate_keyart.jpg"
+	},
+	{
+		"slug": "emerald-plains",
+		"name": "EMERALD PLAINS",
+		"location": "Ireland",
+		"released": "Demon Veil (April 2022)",
+		"reworked": "June 2026",
+		"description": "Experience the rolling hills of Northern Ireland in the Emerald Plains country club and private ranch. The two floors on this map are very distinct—with a modern bottom floor contrasting against the classic style of the manor's upper floor—in order to emphasize clear call outs and orientation landmarks.",
+		"playlists": [
+			"quickmatch",
+			"unranked",
+			"teamdeathmatch"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-emeraldplains-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1IGW5GG24TGEv3q8bRc9aJ/a73e0dc1fd385b4afd32cd3a2592a294/r6s_maps_emeraldplains__1_.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4l6oxRvwD8RPSuYYa7ZfE5/7f997e2218b66c5f5b6b17d2b3ab3152/r6s-maps-emerald-interior.jpg"
+	},
+	{
+		"slug": "favela",
+		"name": "Favela",
+		"location": "Brazil",
+		"released": "Skull Rain (August 2016)",
+		"reworked": "June 2021",
+		"description": "Team Rainbow has been called to pacify and regain control of the Favela. Mixing colorful and narrow streets with high vantage points, this map supports exterior shell destruction which renders it as the most destructible to date.",
+		"playlists": [
+			"quickmatch",
+			"unranked"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-favela-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5x991vPOlYbFlynxn9tmn8/96fac98b7b7f7ae54076e0bbcb4dcc42/r6-maps-favela__1_.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/29slajjHhuKyxSabBGGag4/1bc26e2bb4f9aa5c340073fdc5d769d1/r6-maps-video-favela_352566.jpg"
+	},
+	{
+		"slug": "fortress",
+		"name": "Fortress",
+		"location": "Morocco",
+		"released": "Wind bastion (December 2018)",
+		"reworked": "December 2025",
+		"description": "This large daytime map features a mudbrick kasbah and iconic architecture unique to the southern region of Morocco. The imposing main entrance greets all visitors with its two towers and Kasbah Sehkra Mania written above the archway.",
+		"playlists": [
+			"quickmatch",
+			"unranked",
+			"ranked"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-fortress-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1MrLwvq61aSSvvUj3dDiZg/58bd501d0064d7b453396bb5a2bd56be/fortress-reworked-thumbnail.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4WTHlSiKQwN09UHrKTSxo8/579a9b6411b879591f9a01124a0bae99/fortress-reworked-keyart.jpg"
+	},
+	{
+		"slug": "hereford-base",
+		"name": "Hereford Base",
+		"location": "United Kingdom",
+		"released": "Base game (December 2015)",
+		"reworked": "September 2018",
+		"description": "This is where SAS agents learn their craft and as such it a patchwork of plywood targets, sandbags, barbed wire and other obstacles. One of the most archetypal examples of siege gameplay.",
+		"playlists": [],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-hereford-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1QHhMYSliWgWXFLxZj19hz/44197c1d98498d8a77618076a19ce538/r6-maps-hereford.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/31zC0S19jdlPaOyvflKnSG/ed2bb1f594dc5f57d69f6c2a61ed2d51/r6-maps-video-hereford.jpg"
+	},
+	{
+		"slug": "house",
+		"name": "House",
+		"location": "Los Angeles, California",
+		"released": "Base game (December 2015)",
+		"reworked": "September 2026",
+		"description": "Playing on themes of familiarity and vulnerability, this encounter takes place in a typical suburban home. It’s a prime example of destructive depth and replayability, and is one of the showcases for classic siege gameplay.",
+		"playlists": [
+			"quickmatch",
+			"unranked"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-house-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/28OaEZAY3stNFr0wSvW9MB/bd20f04213f2ab707eac4320360ba1fb/R6S_House_thumbnail.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7rog9kXHolGrFOgnyF2Uhe/ece7332bd59b71665975f9efd40cafe5/R6S_House_screenshot.jpg"
+	},
+	{
+		"slug": "kafe-dostoyevsky",
+		"name": "Kafe Dostoyevsky",
+		"location": "Moscow, Russia",
+		"released": "Base game (December 2015)",
+		"reworked": "Siege X - June 2025",
+		"description": "This high-class café in central Moscow is the pinnacle of glitz and glamour, and is a natural intervention ground for Spetsnaz forces. Destruction of the rich, chic, classic decor will be a key element of this map.",
+		"playlists": [
+			"quickmatch",
+			"ranked",
+			"unranked",
+			"teamdeathmatch"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-kafe-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2nIuPSHvbM57TK90VSwBEm/c9b6b012d961c03a930902fb14e36ea1/R6S_Maps_RussianCafe_EXT.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2fFapm8NXcr8tVPK5wKvAw/7badc6f2631b4954e11acb087b5cf24d/R6S_Maps_RussianCafe_INT.jpg"
+	},
+	{
+		"slug": "kanal",
+		"name": "Kanal",
+		"location": "Hamburg, Germany",
+		"released": "Launch (December 2015)",
+		"reworked": "June 2026",
+		"description": "Taking place in the industrial area of Hamburg, Germany, ‘Kanal’ involves multiple buildings with strategic connecting points over canals. It features many interesting strategic possibilities created by the many bridges, buildings and related vantage points of its terrain.",
+		"playlists": [
+			"quickmatch",
+			"unranked",
+			"teamdeathmatch",
+			"ranked"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-kanal-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4VHR8uZRGkHqvtZxtmibtc/da988c2cab37f1cb186535fc9ba40bea/r6-maps-kanal.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4F5GYEKwvsBsD9N9MF170S/24da6b2ff7421f9a026c350afcf9f108/r6-maps-video-kanal.jpg"
+	},
+	{
+		"slug": "lair",
+		"name": "Lair",
+		"location": "Portugal",
+		"released": "Operation Deep Freeze (November 2023)",
+		"reworked": "September 2025",
+		"description": "Lair is a competitive map across three floors with multiple points of entry and breaching opportunities, making verticality a key factor in your strategy. Expect a flank in Armory Hall or to catch your enemies off guard by infiltrating the R6 room. Stay vigilant in the demon's den, Operators!",
+		"playlists": [
+			"unranked",
+			"quickmatch",
+			"ranked",
+			"teamdeathmatch"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-lair-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/423IqxUqD6yfPEy6CissY0/8fadc01d9fe5ec8695b80be8be9850a7/ModernizedMap_Lair_keyart.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2bKyUztyfsi7HfL9RGtPb9/b34c837688b2b4db51ce1e97520d61ef/ModernizedMap_Lair_keyart.jpg"
+	},
+	{
+		"slug": "nighthaven-labs",
+		"name": "Nighthaven Labs",
+		"location": "Offshore",
+		"released": "Operation Solar Raid (December 2022)",
+		"reworked": "September 2025",
+		"description": "Nighthaven Labs is a competitive map with many entry points and breach points that will make it tricky to hold a position for too long. Be prepared to be flanked in Nighthaven's HQ or to surprise your enemies by breaking in the R&D lab. Be careful to always watch your steps Operators!",
+		"playlists": [
+			"unranked",
+			"ranked",
+			"quickmatch",
+			"teamdeathmatch"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-nighthavenlabs-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/57i2PyuzpgVFzOvLUSAItO/97a571fdb6f568ae69951b75f572d361/ModernizedMap_Nighthaven_keyart.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2gMeZHxuUrUzHTTBdxqGJJ/3bb639dc291983d825cbde80c15efbad/ModernizedMap_Nighthaven_keyart.jpg"
+	},
+	{
+		"slug": "oregon",
+		"name": "Oregon",
+		"location": "Redmond, Oregon",
+		"released": "Base game (December 2015)",
+		"reworked": "March 2026",
+		"description": "Oregon depicts an assault on a fortified survivalist compound. It feels rustic, eclectic and lived-in, and covers a vast, spread out layout requiring adapted tactics to sweep and hold effectively.",
+		"playlists": [
+			"quickmatch",
+			"unranked",
+			"teamdeathmatch",
+			"ranked"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-oregon-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/Z9a0gU7iR0vfcbXtoJUOW/98c0c194937998b8c1310788bd874d57/r6s_maps_oregon_thumbnail.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1FoLr9Hf4oucDtzyQ48uFD/45ed70b771671e73871fd7d3378bbeb6/r6s_maps_oregon_main.jpg"
+	},
+	{
+		"slug": "outback",
+		"name": "Outback",
+		"location": "Australia",
+		"released": "Burnt Horizon (March 2019)",
+		"reworked": "June 2026",
+		"description": "Set in Australia’s Red Heart, this map is an homage to all the dusty service stations and motels that populate the forgotten highways of the continent, places filled with hardworking locals and specialty menu items you’ll find nowhere else.",
+		"playlists": [
+			"quickmatch",
+			"unranked",
+			"teamdeathmatch",
+			"ranked"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-outback-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1vqGVW6pqBZlLKp4h86NnB/08a7e337c0cfa604cde79e755fedb397/r6-maps-outback.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1ZKXwVAIQMkPRF8N5dq0ox/394f352941ecf33365b77882b353f98a/r6-maps-video-outback.jpg"
+	},
+	{
+		"slug": "presidential-plane",
+		"name": "Presidential Plane",
+		"location": "London, United Kingdom",
+		"released": "Base game (December 2015)",
+		"reworked": null,
+		"description": "This presidential plane offers an exotic and unique siege experience. It is claustrophobic, tense and constrained, involving limited breaching opportunities and sight lines.",
+		"playlists": [
+			"quickmatch",
+			"unranked"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-plane-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3YSN2V0HWsddcQq82Iqihn/d3e03012e8909be26f8274b7f9b3bf19/r6-maps-plane.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1nX3u0R7CXNmJCODPxMpdE/a39c5cb3faf75c4f384c39eb010815fd/r6-maps-video-plane.jpg"
+	},
+	{
+		"slug": "skyscraper",
+		"name": "Skyscraper",
+		"location": "Nagoya, Japan",
+		"released": "Red Crow (November 2016)",
+		"reworked": "December 2025",
+		"description": "Team Rainbow has been called to neutralize a Yakuza war brewing high above the streets of Nagoya, Japan. Perched on top of Skyscraper, you will explore refined works of Japanese architecture inside a dangerous mansion. Be prepared for vertiginous rappels in the haze of the morning sun, where modernity and tradition meet.",
+		"playlists": [
+			"teamdeathmatch",
+			"quickmatch",
+			"unranked"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-skyscraper-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7vblsbhmSPLsI3pQJ5Dqx9/addc0558833504849fe5ebeafe5fbd5a/skycraper_modernized_keyart.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6PpDv04JVVnFi6nMp6MOhE/716245458d6569256fe6ce993f6876ab/r6-maps-video-skyscraper.jpg"
+	},
+	{
+		"slug": "stadium-alpha",
+		"name": "Stadium Alpha",
+		"location": "Greece",
+		"released": "Operation Brutal Swarm (September 2022)",
+		"reworked": "September 2026",
+		"description": "Re-discover Stadium! The iconic map has been given some updates to make it more competitive. Across Stadium Alpha map, bulletproof glass has been removed, meaning windows can now be destroyed. The layouts and destructibility for both maps has also been changed to improve player comfort and navigation, and provide more of a challenge for Attackers.",
+		"playlists": [
+			"unranked",
+			"quickmatch"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-stadiumalpha-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5qBxMX7q55gUPGV8tE7dRg/ec665688073e2a08029ff6da4ff04045/R6S_Stadium_Alpha_thumbnail.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/KgWX3UfFptJcTzMQbI8gA/842acd8ae09f6fdc388bec98ad67d088/R6S_Stadium_Alpha_screenshot.jpg"
+	},
+	{
+		"slug": "stadium-bravo",
+		"name": "Stadium Bravo",
+		"location": "Greece",
+		"released": "Operation Brutal Swarm (September 2022)",
+		"reworked": "September 2026",
+		"description": "Re-discover Stadium! The iconic map has been given some updates to make it more competitive. Across Stadium Bravo map, bulletproof glass has been removed, meaning windows can now be destroyed. The layouts and destructibility for both maps has also been changed to improve player comfort and navigation, and provide more of a challenge for Attackers.",
+		"playlists": [
+			"unranked",
+			"quickmatch"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-stadiumbravo-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4QoneYZ2YonTyI3EcHlEmf/c30b077938a9f2ce2b26a6d6bd0c7935/R6S_Stadium_Bravo_thumbnail.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/RmzXxF8qFtXSMROP5uS8q/276f9521bb5cd41db2c2d06342eadab4/R6S_Stadium_Bravo_screenshot.jpg"
+	},
+	{
+		"slug": "theme-park",
+		"name": "Theme Park",
+		"location": "Hong Kong",
+		"released": "Blood Orchid (August 2017)",
+		"reworked": "December 2025",
+		"description": "Team Rainbow has been called to raid an abandoned theme park on the shores of Hong Kong. Lead a lethal raid in this challenging perimeter. Get ready to discover a colorful and eclectic new map filled with dynamic and fast-paced face-offs.",
+		"playlists": [
+			"teamdeathmatch",
+			"quickmatch",
+			"unranked"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-themepark-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2immPCOZj6tTHMM9zeBg5B/ba237774ba7d2b1e069b6b6065a60207/themepark_modernized_keyart.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6QGXC88vomDvqWjUzSGXpC/15ed669e3ba26d0819218d2c6088ef76/r6-maps-video-themepark_352576.jpg"
+	},
+	{
+		"slug": "tower",
+		"name": "Tower",
+		"location": "Seoul, South Korea",
+		"released": "White Noise (November 2017)",
+		"reworked": null,
+		"description": "Scale the snow-capped Mok Myeok Tower to lead a rescue mission in Seoul, South Korea. The modern communications and observation tower offers fresh vertical vantage points overlooking the entire cityscape, and sets the stage for diverse multilevel tactics.",
+		"playlists": [
+			"quickmatch",
+			"unranked"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-tower-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6ZMBunxANmzTNr42wwzggb/3a19c506f9e3f910e34da21095686fa9/r6-maps-tower.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1igJr0W9lZsg0FsfqlfwD6/2cdede1c61fdbbe1ea3ace10dab5e4f8/r6-maps-video-tower.jpg"
+	},
+	{
+		"slug": "villa",
+		"name": "Villa",
+		"location": "Tuscany, Italy",
+		"released": "Para Bellum (June 2018)",
+		"reworked": "March 2026",
+		"description": "The land belongs to the Vinciguerra, a dangerous crime family known for their smuggling activities. Now we catch the villa in a snapshot of time: Vinciguerras are burning documents and transporting their holdings before the big raid. But they’ve got wind of Operation Para Bellum and fled, leaving everything in disarray with vital information ready for the taking.",
+		"playlists": [
+			"ranked",
+			"teamdeathmatch",
+			"quickmatch",
+			"unranked"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-villa-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/Io6dxNeHbCbJoF9WLJf9s/0b9ed52de358585c47c327c46907d1cd/r6s-maps-villa-thumb.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6unM0FYNkxPsr7BSiKLPR5/1a3e9cf2565be709e993a809457e595a/r6s-maps-villa-main.jpg"
+	},
+	{
+		"slug": "yacht",
+		"name": "Yacht",
+		"location": "Baffin Bay",
+		"released": "Black Ice (February 2016)",
+		"reworked": null,
+		"description": "In the Baffin Bay, a luxury yacht has crashed into an iceberg breaching the hull. Rainbow has been sent to secure the stranded vessel as an unidentified submarine has docked near the vessel.",
+		"playlists": [
+			"quickmatch",
+			"unranked"
+		],
+		"blueprints": "https://ubistatic-a.ubisoft.com/0106/gamesites/rainbow6/blueprints/r6-maps-yacht-blueprints.zip",
+		"remoteThumbnail": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/smDP6lSSaB6Daa7bLZxHZ/d6cc60d76e553e91503a474ff0bc148b/r6-maps-yacht.jpg",
+		"remoteImage": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1YgGyKnH2abezqOYtxZk9E/426017783eeb81decac8797402134914/r6-maps-video-yacht.jpg"
+	}
+]
